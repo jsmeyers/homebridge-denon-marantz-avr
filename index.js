@@ -8,7 +8,7 @@ module.exports = function (homebridge) {
     Service = homebridge.hap.Service;
     Characteristic = homebridge.hap.Characteristic;
 
-    homebridge.registerAccessory('homebridge-sharp-tv', 'SharpTV', SharpTVAccessory);
+    homebridge.registerAccessory('homebridge-sharp', 'SharpTV', SharpTVAccessory);
 };
 
 function SharpTVAccessory(log, config) {
