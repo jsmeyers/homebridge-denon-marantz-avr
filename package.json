@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-denon",
+  "name": "homebridge-sharptv",
   "version": "0.3.0",
   "description": "Denon and Marantz AVR support for Homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
